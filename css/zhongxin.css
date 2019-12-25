@@ -1,0 +1,290 @@
+@charset="UTF-8"
+*{
+	margin: 0;
+	padding: 0;
+}
+.top{
+	width: 1440px;
+	height: 81px;
+	border-top: 5px solid #3148A5;
+	border-bottom: 1px solid #cccccc;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+.top-left{
+	width: 354px;
+	height: 80px;
+	margin-left: 220px;
+	float: left;
+}
+.top-left .img{
+	float: left;
+	margin-top: 7px;
+}
+.top-left span{
+	float: left;
+	font-size: 20px;
+	color: #3148A5;
+	font-family: "微软雅黑";
+	margin-top: 22px;
+	margin-left: 16px;
+}
+.top-left span em{
+	font-size: 12px;
+	color: #3148A5;
+	font-family: "微软雅黑";
+}
+.img1{
+	position: absolute;
+	left: 1033px; bottom: 58px;
+}
+ul{
+	width: 580px;
+	height: 14px;
+	float: left;
+	margin-top: 55px;
+}
+li{
+	float: right;
+	list-style: none;
+	font-size: 14px;
+	color: #333333;
+	font-family: "宋体";
+	margin-right: 26px;
+}
+li a{
+	color: black;
+}
+li a:hover{
+	color: blue;
+}
+ul .active a{
+	color: blue;
+}
+p{
+	font-size: 12px;
+	color: #000;
+	font-family: "微软雅黑";
+}
+.content{
+	width: 1440px;
+	height: 1497px;
+	background: #F8F8F8;
+	border-bottom: 4px solid #09238B;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content-left{
+	width: 200px;
+	height: 115px;
+	margin-left: 220px;
+	padding-top: 44px;
+}
+.content-left h3{
+	font-size: 24px;
+	color: #09238B;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 0;
+}
+.content-left h4{
+	font-size: 14px;
+	border-bottom: 1px solid #ccc;
+	list-style: none;
+	margin-bottom: 0;
+	padding-bottom: 6px;
+}
+.content-right{
+	width: 769px;
+	margin-left: 451px;
+	margin-top: -105px;
+}
+.content-right .top1{
+	width: 768px;
+	height: 32px;
+	border-bottom: 1px solid #ccc;
+}
+.content-right .top1 h1{
+	font-size: 20px;
+	font-family: "微软雅黑";
+}
+.content-right .banner{
+	margin-top: 18px;
+}
+.content1{
+	width: 769px;
+	height: 211px;
+	border-bottom: 1px dashed #ccc;
+}
+.content1 .left{
+	padding-top: 30px;
+	float: left;
+}
+.content1 .right{
+	float:right;
+
+}
+.content1 .right h6{
+	font-size: 16px;
+	margin-bottom: 6px;
+	margin-bottom: 24px;
+}
+.content1 .right span{
+	font-size: 10px;
+	color: #666666;
+	margin-left: 40px;
+}
+.content1 .right em{
+	font-size: 12px;
+	color: #A5A5A5;
+	line-height: 24px;
+	font-style: normal;
+}
+.content1 .right h5{
+	font-size: 12px;
+	color: #4D4D4D;
+	margin-bottom: 0;
+	margin-top:10px;
+}
+.content2{
+	margin-top: 34px;
+}
+.content2 .left1{
+	float: left;
+}
+.content2 .left1 a strong{
+	font-weight: normal;
+}
+.content2 .left1 a{
+	color: black;
+	font-size: 14px;
+}
+.content2 .left1 a:hover{
+	color: blue;
+}
+.content2 .right1{
+	float: right;
+}
+.content2 .right1 a{
+	color: black;
+	font-size: 14px;
+}
+.content2 .right1 a:hover{
+	color: blue;
+}
+.footer{
+	width: 1440px;
+	height: 292px;
+	background: #5F5F5F;
+	margin-left: auto;
+	margin-right: auto;
+}
+.footer .foto{
+	width: 100%;
+	height: 223px;
+}
+.footer .left2{
+	width: 619px;
+	height: 221px;
+	margin-left: 220px;
+	border-bottom: 1px solid black;
+	float: left;
+}
+.footer .left2 ul{
+	width: 100%;
+	height: 30px;
+	padding-left: 0;
+	font-size: 0;
+	margin-top: 0;
+	margin-bottom: 15px;
+	padding-top: 31px;
+	border-bottom: 1px solid #888888;
+}
+.footer .left2 li{
+	float: left;
+	margin-right: 60px;
+	font-size: 12px;
+}
+.footer .left2 li a{
+	color: #fff;
+}
+.footer .left2 li a:hover{
+	color: blue;
+}
+.footer .left2 .f1{
+	margin-bottom: 10px;
+}
+.footer .left2 .f1 a{
+	color: #888888;
+	font-size: 12px;
+	margin-right: 55px;
+}
+.footer .left2 .f2 a{
+	color: #888888;
+	font-size: 12px;
+	margin-left: 105px;
+}
+.footer .left2 .f1 a:hover{
+	color: blue;
+}
+.footer .right2{
+	width: 381px;
+	height: 221px;
+	float: right;
+	margin-right: 220px;
+	border-bottom: 1px solid black;
+}
+.rtop{
+	height: 61px;
+	border-bottom: 1px solid #888888;
+}
+.rtop h2{
+	font-size: 12px;
+	color: #fff;
+	font-family: "宋体";
+	float: right;
+	margin-top: 31px;
+	margin-right: 111px;
+}
+.rbom{
+	margin-left: 185px;
+	margin-top: 20px;
+}
+.rbom1{
+	width: 83px;
+	height: 105px;
+	float: left;
+}
+.rbom1 a{
+	font-size: 12px;
+	color: #ccc;
+	margin-left: 16px;
+}
+.rbom2{
+	width: 83px;
+	height: 105px;
+	float: right;
+}
+.rbom2 a{
+	font-size: 12px;
+	color: #ccc;
+	margin-left: 16px;
+}
+.fobo{
+	width: 998px;
+	height: 70px;
+	margin-left: 220px;
+}
+.fobo .fblft{
+	float: left;
+}
+.fobo .fblft p{
+	margin-left: 0;
+	font-size: 12px;
+	color: #ccc;
+	margin-top: 20px;
+}
+.fobo .fblft p span{
+	margin-left: 328px;
+}

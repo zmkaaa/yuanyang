@@ -1,0 +1,280 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	width: 1400px;
+	height: 1373px;
+	margin:30px auto;
+	border-top: 5px solid #3148A5;
+}
+.top{
+	width: 1300px;
+	height:80px;
+	border-bottom: 1px solid #DDDDDD;
+}
+.logo{
+   float: left;
+   margin-top: 10px;
+   margin-right: 17px;
+}
+.top span{
+	font-family: "微软雅黑";
+	font-size: 20px;
+	color:#112262;
+	width: 290px;
+	float: left;
+	margin-top: 25px;
+	padding-right: 96px;
+}
+.top em{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color:#4C5989;
+	font-weight: normal;
+	width: 250px;
+	font-style: normal;
+	margin-top: 7px;
+}
+.top ul{
+	width: 623px;
+	float: left;
+}
+.top ul li a{
+	float: left;
+	margin-top: 54px;
+	margin-right: 25px;
+	color:black;
+}
+.top ul li a:hover{
+	color:#10298E;
+}
+.box .logo2{
+	padding-left: 1000px;
+    margin-right: -5px;
+}
+.top_l{
+    width: 1440px;
+}
+.top_l p,h6,h5{
+	font-family: "微软雅黑";
+	font-size:12px;
+	font-style: normal;
+	float:left;
+	font-weight:normal;
+	line-height: 39px;
+
+}
+.center{
+	width: 100%;
+	height: 952px;
+	background:#FBFBFB;
+	margin-top: -1250px;
+}
+.center_l{
+	width:200px;
+	height: 111px;
+	float:left;
+}
+.center_l h3{
+	font-family: "微软雅黑";
+	font-size: 24px;
+	color:#10298E;
+	margin-top: 24px;
+	border-bottom:1px solid #DDDDDD;
+	width: 200px;
+}
+.center_l h4{
+	font-family:"微软雅黑";
+	font-size:14px;
+	color:#5A5A5A;
+	border-bottom:1px solid #DDDDDD;
+	width: 200px;
+	margin-top: 18px;
+	padding-bottom: 8px;
+
+}
+.center_l h2{
+	font-family:"微软雅黑";
+	font-size:14px;
+	color:#5A5A5A;
+	border-bottom:1px solid #DDDDDD;
+	width: 200px;
+	margin-top: 18px;
+	padding-bottom: 8px;
+}
+.center_l h2,h4:hover{
+	color:black;
+}
+.center_r h2{
+	float:left;
+	margin-top: 24px;
+	font-family:"微软雅黑";
+	font-size:20px;
+	margin-left: 33px;
+	border-bottom:1px solid #DDDDDD;
+	margin-bottom: 18px;
+	width: 770px;
+	padding-bottom:8px;
+}
+.center_r .img{
+	width: 770px;
+	height: 250px;
+	padding-left: 234px;
+}
+.center_r ul{
+	width: 172px;
+	height: 135px;
+    float:left;
+    padding-top: 100px;
+    margin-left: 249px;
+
+
+}
+.center_r ul li .zz{
+	font-family:"微软雅黑";
+    font-size:14px;
+
+}
+.center_r ul li{
+	font-family:"微软雅黑";
+	font-size:12px;
+	line-height: 28px;
+}
+.diannao{
+	padding-top: 120px;
+	padding-left: 570px;
+	width: 192px;
+}
+.center_r h1{
+	font-size:18px;
+	float: right;
+	font-family:"微软雅黑";
+	padding-right:200px;
+	padding-top: -500px;
+	color:#112262;
+	margin-top:-70px;
+}
+.yangyang{
+	padding-left: 230px;
+	padding-top: 47px;
+}
+.footer{
+	width: 1440px;
+	height: 292px;
+	background: #5F5F5F;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-left: -100px;
+
+}
+.footer .foto{
+	width: 100%;
+	height: 223px;
+}
+.footer .left2{
+	width: 619px;
+	height: 221px;
+	margin-left: 220px;
+	border-bottom: 1px solid black;
+	float: left;
+}
+.footer .left2 ul{
+	width: 100%;
+	height: 30px;
+	padding-left: 0;
+	font-size: 0;
+	margin-top: 0;
+	margin-bottom: 15px;
+	padding-top: 31px;
+	border-bottom: 1px solid #888888;
+}
+.footer .left2 li{
+	float: left;
+	margin-right: 60px;
+	font-size: 12px;
+}
+.footer .left2 li a{
+	color: #fff;
+}
+.footer .left2 li a:hover{
+	color: blue;
+}
+.footer .left2 .f1{
+	margin-bottom: 10px;
+}
+.footer .left2 .f1 a{
+	color: #888888;
+	font-size: 12px;
+	margin-right: 55px;
+}
+.footer .left2 .f2 a{
+	color: #888888;
+	font-size: 12px;
+	margin-left: 105px;
+}
+.footer .left2 .f1 a:hover{
+	color: blue;
+}
+.footer .right2{
+	width: 381px;
+	height: 221px;
+	float: right;
+	margin-right: 220px;
+	border-bottom: 1px solid black;
+}
+.rtop{
+	height: 61px;
+	border-bottom: 1px solid #888888;
+}
+.rtop h2{
+	font-size: 12px;
+	color: #fff;
+	font-family: "宋体";
+	float: right;
+	margin-top: 31px;
+	margin-right: 111px;
+}
+.rbom{
+	margin-left: 185px;
+	margin-top: 20px;
+}
+.rbom1{
+	width: 83px;
+	height: 105px;
+	float: left;
+}
+.rbom1 a{
+	font-size: 12px;
+	color: #ccc;
+	margin-left: 16px;
+}
+.rbom2{
+	width: 83px;
+	height: 105px;
+	float: right;
+}
+.rbom2 a{
+	font-size: 12px;
+	color: #ccc;
+	margin-left: 16px;
+}
+.fobo{
+	width: 998px;
+	height: 70px;
+	margin-left: 220px;
+}
+.fobo .fblft{
+	float: left;
+}
+.fobo .fblft p{
+	margin-left: 0;
+	font-size: 12px;
+	color: #ccc;
+	margin-top: 20px;
+}
+.fobo .fblft p span{
+	margin-left: 328px;
+}
